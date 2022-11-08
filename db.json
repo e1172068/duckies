@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "Canards en caoutchouc, paq. 20",
+      "description": "Lot de 18 magnifiques canards pour vous supporter dans vos moments les plus difficiles. Nos canards sauront vous accompagner lors d'une refonte de site web rempli de !important.",
+      "price": "11,99 $",
+      "category": "Canards classiques",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Canard de bain en plastique Frida Kahlo",
+      "description": "Pourquoi ne pas passer une soirée à discuter de l'art et du postcolonialisme avec Frida?",
+      "price": "23,99 $",
+      "category": "Canards costumés"
+    },
+    {
+      "id": 3,
+      "name": "Canards en plastique cowboy",
+      "description": "Ces canards Cowboy rendent l'heure du bain pleine d'amusement d'éclaboussures et de charlatanisme !",
+      "price": "5,99 $",
+      "category": "Canards costumés"
+    },
+    {
+      "name": "ab",
+      "description": "a",
+      "price": "a",
+      "category": "a",
+      "id": 4
+    }
+  ]
+}
